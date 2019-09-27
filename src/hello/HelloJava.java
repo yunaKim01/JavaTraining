@@ -10,7 +10,7 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		// 한 줄 출력
-		System.out.println("Hello Java");
+		System.out.println("Hello yuna");
 
 	}
 
